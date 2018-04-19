@@ -2,6 +2,7 @@
 # ECOSUR-ERIS Project
 # Author: Javier Arellano-Verdejo
 # Date: april 2018
+# Updated: 19/04/2018
 # How to use: ./proccess.py -p ./data/terra/
 # ./data/terra/ is the path to the nc files data
 
